@@ -2,7 +2,7 @@ const zodiac = [
   {
     id: '1',
     name: 'aquarius',
-    dates: 'Jan 21 - Feb 19',
+    dates: 'Jan 21 - Feb 18',
     symbol: 'Water Bearer',
   },
   {
